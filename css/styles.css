@@ -1,0 +1,92 @@
+@media (min-width: 480px) {
+  .tam_titulo
+  {      font-size: 2em;
+
+  }
+}
+
+@media (min-width: 780px) {
+  .tam_titulo
+  {
+          font-size: 2em;
+  }
+}
+
+@media (min-width: 1024px) {
+  .tam_titulo
+  {
+          font-size: 3em;
+  }
+}
+
+
+
+
+
+.relative{
+  position: relative;
+  }
+
+.absolute
+{
+  position:absolute;
+
+}
+
+
+
+.position_center_txt
+{
+  margin-left: 25%;
+  /* border: 3px solid green; */
+  width: 50%;
+  height: 60%;
+  top: 10vh;
+  text-align: center;
+  color:rgb(238, 238, 238)
+}
+
+.latam_logo{
+   width:250px;
+   height:58;
+}
+
+
+
+.img_tam_principal{
+  height: 60vh;
+}
+
+
+
+.color_bar{
+  background-color:rgba(56, 141, 196, 0.55)
+}
+
+.color_info{
+  background-color:rgb(238, 238, 238)
+}
+
+
+
+.caja_boton
+{
+  width: 100%;
+  height: 30vh;
+}
+
+.img_tam_persons
+{
+  width: 50%;
+  height: 50%;
+}
+
+footer
+{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 70px;
+  background-color: #b3adac;
+  width: 100%;
+}
